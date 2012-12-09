@@ -89,3 +89,16 @@ euclidean geometry with TikZ.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.16c-2
++ Revision: 756977
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.16c-1
++ Revision: 719763
+- texlive-tkz-euclide
+- texlive-tkz-euclide
+- texlive-tkz-euclide
+
