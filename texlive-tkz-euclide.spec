@@ -6,7 +6,7 @@
 # catalog-version 1.16c
 Name:		texlive-tkz-euclide
 Version:	1.16c
-Release:	9
+Release:	10
 Summary:	Tools for drawing euclidean geometry
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-euclide
