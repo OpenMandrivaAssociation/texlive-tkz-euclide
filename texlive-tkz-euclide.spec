@@ -1,6 +1,6 @@
 Name:		texlive-tkz-euclide
-Version:	65724
-Release:	2
+Version:	68747
+Release:	1
 Summary:	Tools for drawing euclidean geometry
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-euclide
