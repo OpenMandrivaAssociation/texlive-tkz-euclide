@@ -1,5 +1,5 @@
 Name:		texlive-tkz-euclide
-Version:	71131
+Version:	76332
 Release:	1
 Summary:	Tools for drawing euclidean geometry
 Group:		Publishing
